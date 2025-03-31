@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="State"
+    android:background="@color/white"
+    android:padding="16dp"
+    style="?attr/textAppearanceSubtitle1"
+    android:ellipsize="end"
+    android:maxLines="1"
+    android:drawablePadding="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:drawableEndCompat="@android:drawable/ic_menu_send">
+
+</TextView>
